@@ -108,5 +108,5 @@ Hệ thống đã được thiết lập thành công:
 
 ---
 
-🧑‍💻 **Tác giả:** NGUYỄN ĐỨC HUY 
+🧑‍💻 **Tác giả:** TRẦN THỊ MỸ UYÊN
 📅 **Cập nhật lần cuối:** 2025-10-09
